@@ -64,10 +64,12 @@ git clone https://github.com/HanineAttia/Churn-Prediction-of-ooredoo-clients.git
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
 ```
+
+1. Open `Churn_Prediction.ipynb` in Google Colab or Jupyter Notebook
+2. Run all cells sequentially
+3. Once the Streamlit cell is executed, a **local URL** will appear (e.g. `http://localhost:8501`)
+4. Click the link or open it in your browser to launch the app
 
 ---
 
