@@ -44,17 +44,6 @@ evaluation, and an interactive Streamlit application for real-time predictions.
 
 ---
 
-## 📁 Project Structure
-
-Churn-Prediction-of-ooredoo-clients/
-│
-├── Churn_Prediction.ipynb   # Main notebook (EDA + modeling + Streamlit)
-├── Streamlit_Home.png       # App screenshot
-├── Power_BI_Dashboard.png   # Dashboard screenshot
-├── requirements.txt         # Dependencies
-└── README.md
-
----
 
 ## ⚙️ Installation
 
